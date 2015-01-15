@@ -314,7 +314,7 @@
 <NumElts>3</NumElts>
 <SGL>
 <Name>X</Name>
-<Val>1.00000</Val>
+<Val>-7.00000</Val>
 </SGL>
 <SGL>
 <Name>Y</Name>
@@ -322,7 +322,7 @@
 </SGL>
 <SGL>
 <Name>Z</Name>
-<Val>0.10000</Val>
+<Val>0.00000</Val>
 </SGL>
 </Cluster>
 <Cluster>
