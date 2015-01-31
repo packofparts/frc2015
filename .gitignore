@@ -18,3 +18,6 @@
 # Autodesk Inventor
 lockfile.lck
 OldVersions
+
+# Builds from LabVIEW
+LabVIEW\builds
