@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
+			<Item Name="Diff to Right Arm Motor.vi" Type="VI" URL="../Diff to Right Arm Motor.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Game Mech.vi" Type="VI" URL="../Game Mech.vi"/>
