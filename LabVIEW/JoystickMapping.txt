@@ -1,0 +1,18 @@
+﻿Joysticks: j0, j1, j2
+
+
+j0 + j1 => Tank Drive => 2 Talon SRXs
+j0 = left motor; j1 = right motor
+
+
+j2: Controlling 2 Talon XRXs
+Y-Axis => Up/Down Arm
+B7 => Left 2CAN Up
+B6 => Left 2CAN Down
+B10 => Right 2CAN Up
+B11 => Right 2CAN Down
+B2 => Claw Open, Closed when Released
+
+
+j1:
+        B0 (Trigger) => Retract Claw, Extend when Released
