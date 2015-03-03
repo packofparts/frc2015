@@ -119,6 +119,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Check Limit Switch.vi" Type="VI" URL="../Check Limit Switch.vi"/>
 			<Item Name="Diff to Right Arm Motor.vi" Type="VI" URL="../Diff to Right Arm Motor.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
+			<Item Name="expo drive.vi" Type="VI" URL="../expo drive.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Game Mech.vi" Type="VI" URL="../Game Mech.vi"/>
 			<Item Name="Get Gyro Angle.vi" Type="VI" URL="../Get Gyro Angle.vi"/>
